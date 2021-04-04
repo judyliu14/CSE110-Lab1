@@ -26,6 +26,7 @@
 ### Student Researcher
 Advisor: Tajana Rosing
 - Researching under the topic of Hyperdimensional computing.
+
 ### Software Engineering Intern
 Orka Inc., Palo Alto, CA
 - Developed and published the iOS app [Orka Health](https://apps.apple.com/us/app/orka-health/id1525826891) that connects with hearing aid via Bluetooth, providing **remote control and telehealth functionalities** including volume control and music streaming mode switcher.
